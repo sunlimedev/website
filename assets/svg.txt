@@ -1,0 +1,2 @@
+svg compression: https://jakearchibald.github.io/svgomg/
+svg editor: https://www.svgviewer.dev
